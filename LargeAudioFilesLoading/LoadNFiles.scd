@@ -75,3 +75,4 @@ m = { | bnums |
 }.play;
 //:
 b[0].sampleRate;
+//:64 channels - each on a semitone?
