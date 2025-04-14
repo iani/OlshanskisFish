@@ -76,3 +76,4 @@ m = { | bnums |
 //:
 b[0].sampleRate;
 //:64 channels - each on a semitone?
+(midinote: (30..93).pseq, dur: 0.1) +> \test;
